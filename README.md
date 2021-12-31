@@ -1,5 +1,5 @@
 # Testing_exercises
-School exercises of Testing. Python, Robotframe etc.
+School exercises for Testing process. Python, Robot framework etc.
 
 Age folder includes files for Age program. 
 In age.py program asks the user his age and then prints the appropriate answer. 
