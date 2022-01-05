@@ -1,5 +1,5 @@
 # Testing_exercises
-**School exercises for Testing process. Python, Robot framework etc. Created with Visual Studio Code and Jupyter Notebook (RobotLab) **
+**School exercises for Testing process. Python, Robot framework etc. Created with Visual Studio Code and Jupyter Notebook (RobotLab)**
 
 ## Age
 A program that asks users age and prints the appropriate answer depenging on the answer. Test program done is done with unittest framework.
