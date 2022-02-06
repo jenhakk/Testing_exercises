@@ -4,6 +4,10 @@
 ## Verkkokauppa
 Bigger project executed with three other students. Exercise was to think 10 test cases for Verkkokauppa.com and then create them with Robot Framework. We had to document test cases and make bug report of 5 bugs. We made up the test cases but each of us had own test cases to code. In the code you can see who created which part. Folder also includes documents of test cases and bug report.
 
+
+https://user-images.githubusercontent.com/75015030/152686928-6ebb0dfe-a0c1-4fb7-878c-1825ca9b46c3.mp4
+
+
 ## Age
 A program that asks users age and prints the appropriate answer depenging on the answer. Test program done is done with unittest framework.
 
